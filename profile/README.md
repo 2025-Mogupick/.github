@@ -1,12 +1,23 @@
-## Hi Mogupick 👋
+**상세보기**[Repository/Code](https://github.com/2025-Mogupick/mogupick_FE)
 
-<!--
+# 모구픽(MOGUPICK)
+- **모** : ‘모아’ — 파편화된 구독 상품을 한 곳에 모으다
+- **구** : ‘구독’ — 다양한 카테고리의 구독 상품
+- **픽** : ‘Pick’ — 나에게 맞는 구독을 고르고 선택하다
 
-**Here are some ideas to get you started:**
+## 개발 기간
+**2025.08.21 - 2025.09.15 (총 25일)**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 프로젝트 인원
+- 총 9명
+  - `PM-1명`, `PD-2명`, `FE-2명`, `BE-4명`
+
+## 기술스택
+| 분야 | 사용 기술 / 도구 |
+|------|------------------|
+| 🎨 **Frontend** | `Next.js 15.4.6`, `React 19.1.0`, `Next-Auth`, `TailwindCSS`, `SCSS` |
+| ⚙️ **Backend & Auth** |  |
+| 📝 **Design & Planning** | Figma |
+| 📌 **Project Management** | Notion |
+| 🚀 **Deployment** | Vercel (Preview & Production) |
+| 💬 **Communication** | Discord, Zep |
