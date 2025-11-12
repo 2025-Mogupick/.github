@@ -1,3 +1,5 @@
+
+<img width="1920" height="1080" alt="Cover" src="https://github.com/user-attachments/assets/616b35ea-8ae3-48ff-95ca-48fb437f0cc4" />
 **상세보기**[Repository/Code](https://github.com/2025-Mogupick/mogupick_FE)
 
 # 모구픽(MOGUPICK)
