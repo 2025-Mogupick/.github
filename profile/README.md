@@ -20,7 +20,7 @@
 | 분야 | 사용 기술 / 도구 |
 |------|------------------|
 | 🎨 **Frontend** | `Next.js 15.4.6`, `React 19.1.0`, `Next-Auth`, `TailwindCSS`, `SCSS` |
-| ⚙️ **Backend & Auth** |  |
+| ⚙️ **Backend & Auth** | `SpringBoot`, `mongoDB`, `MySQL`, `redis`, `AWS`  |
 | 📝 **Design & Planning** | Figma |
 | 📌 **Project Management** | Notion |
 | 🚀 **Deployment** | Vercel (Preview & Production) |
